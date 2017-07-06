@@ -49,14 +49,12 @@ $(document).ready(function() {
 
         /* Parallax image for filmTv section */
         $('#filmTv').parallax({
-            imageSrc: './images/cinema.jpg',
-            androidFix: false
+            imageSrc: './images/cinema.jpg'
         });
 
         /* Parallax image for contact section */
         $('#contact').parallax({
-            imageSrc: './images/theatre.jpg',
-            androidFix: false
+            imageSrc: './images/theatre.jpg'
         });
 
 
